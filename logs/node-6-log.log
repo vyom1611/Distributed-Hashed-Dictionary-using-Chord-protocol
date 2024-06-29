@@ -1,0 +1,2361 @@
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.749 [main] INFO: Node 6 initialized at URL Node6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.776 [main] INFO: Attempting to join the network via Node Node0
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.798 [main] INFO: Joined the network, finger table and others updated.
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.825 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1926879790
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.826 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1926879790
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.828 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'anonymous' with definition 'without a name' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.829 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'anonymous' with definition 'without a name' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.830 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 588734996
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.830 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 588734996
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.830 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'another' with definition 'one more, different' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.831 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'another' with definition 'one more, different' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.832 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 2071979553
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.833 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 2071979553
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.833 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'answer' with definition 'a reply, a solution' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.833 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'answer' with definition 'a reply, a solution' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.834 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1100255267
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.835 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1100255267
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.835 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'accoutre' with definition 'to furnish with dress and trappings (esp. a warrior)' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.836 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'accoutre' with definition 'to furnish with dress and trappings (esp. a warrior)' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.836 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 200675650
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.837 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 200675650
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.837 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'acquit' with definition 'set free, conduct well' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.837 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'acquit' with definition 'set free, conduct well' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.838 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 2117451917
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.839 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 2117451917
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.839 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'adverb' with definition 'word that modifies a verb' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.839 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'adverb' with definition 'word that modifies a verb' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.840 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 161745152
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.840 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 161745152
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.840 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'adversary' with definition 'an enemy' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.841 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'adversary' with definition 'an enemy' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.841 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 798503001
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.842 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 798503001
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.842 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'adze' with definition 'tool for cutting away surface of wood' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.842 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'adze' with definition 'tool for cutting away surface of wood' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.843 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1443814732
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.843 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1443814732
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.844 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'aegis' with definition 'shield, protection' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.844 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'aegis' with definition 'shield, protection' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.844 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 339384881
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.845 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 339384881
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.845 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'aerate' with definition 'combine with air' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.846 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'aerate' with definition 'combine with air' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.846 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 389536215
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.847 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 389536215
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.847 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'affront' with definition 'an insult' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.847 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'affront' with definition 'an insult' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.848 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1734978560
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.848 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1734978560
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.848 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'affable' with definition 'pleasant, easy to speak to' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.848 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'affable' with definition 'pleasant, easy to speak to' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.849 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 53375528
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.849 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 53375528
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.850 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'affluence' with definition 'abundance, wealth' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.850 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'affluence' with definition 'abundance, wealth' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.850 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1249803663
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.851 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1249803663
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.851 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'backgammon' with definition 'a game' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.851 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'backgammon' with definition 'a game' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.852 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1520180009
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.853 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1520180009
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.853 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'bail' with definition 'one who gives security' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.853 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'bail' with definition 'one who gives security' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.854 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 179312795
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.854 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 179312795
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.854 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'bairn' with definition 'child' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.854 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'bairn' with definition 'child' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.855 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 747570892
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.856 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 747570892
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.856 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'bald' with definition 'without hair, bare' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.856 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'bald' with definition 'without hair, bare' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.857 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 764348511
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.857 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 764348511
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.857 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'bale' with definition 'a package, misery' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.857 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'bale' with definition 'a package, misery' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.858 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1891063905
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.858 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1891063905
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.859 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'benevolent' with definition 'generous, kindly, charitable' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.859 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'benevolent' with definition 'generous, kindly, charitable' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.859 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1185674694
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.860 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1185674694
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.860 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'benight' with definition 'overtake by night' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.860 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'benight' with definition 'overtake by night' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.860 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 319370707
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.862 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 319370707
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.863 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'bestead' with definition 'help, relive, avail' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.863 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'bestead' with definition 'help, relive, avail' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.863 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1622040604
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.864 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1622040604
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.864 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'bet' with definition 'lay a wager' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.864 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'bet' with definition 'lay a wager' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.865 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1903723604
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.865 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1903723604
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.865 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'beverage' with definition 'a drink' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.865 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'beverage' with definition 'a drink' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.866 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 2618183
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.866 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 2618183
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.866 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'bewail' with definition 'lament' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.867 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'bewail' with definition 'lament' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.867 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 244376075
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.867 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 244376075
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.868 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'broil' with definition 'cook in fire' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.868 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'broil' with definition 'cook in fire' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.869 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 965519502
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.869 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 965519502
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.869 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'broke' with definition 'past tense of BREAK' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.869 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'broke' with definition 'past tense of BREAK' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.870 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 414699834
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.870 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 414699834
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.870 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'brunt' with definition 'the force of the blow' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.870 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'brunt' with definition 'the force of the blow' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.871 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1244307660
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.871 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1244307660
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.871 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'buff' with definition 'thick strong velvety leather, a light yellow colour' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.872 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'buff' with definition 'thick strong velvety leather, a light yellow colour' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.872 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 2010687137
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.872 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 2010687137
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.872 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'card' with definition 'comb wool etc' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.873 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'card' with definition 'comb wool etc' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.873 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1648110459
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.873 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1648110459
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.874 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'career' with definition 'a profession' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.874 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'career' with definition 'a profession' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.874 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 570346926
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.875 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 570346926
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.875 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'carpet' with definition 'a thick woven covering for the floor, rug' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.875 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'carpet' with definition 'a thick woven covering for the floor, rug' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.875 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1716829285
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.876 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1716829285
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.876 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'carriage' with definition 'conveyance, a vehicle for carrying' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.876 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'carriage' with definition 'conveyance, a vehicle for carrying' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.876 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1473315652
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.877 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1473315652
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.877 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'clamp' with definition 'a device to hold things together' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.877 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'clamp' with definition 'a device to hold things together' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.878 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1092942429
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.878 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1092942429
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.878 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'clan' with definition 'a tribe' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.878 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'clan' with definition 'a tribe' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.879 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 727861241
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.879 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 727861241
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.879 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'clandestine' with definition 'concealed, hidden' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.879 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'clandestine' with definition 'concealed, hidden' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.880 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 103752539
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.880 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 103752539
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.880 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'clergy' with definition 'the ministers of the Christian religion' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.881 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'clergy' with definition 'the ministers of the Christian religion' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.881 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1283536058
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.882 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1283536058
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.882 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'clever' with definition 'skilful' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.882 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'clever' with definition 'skilful' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.883 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 4606817
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.883 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 4606817
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.883 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'codify' with definition 'edit, arrange systematically' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.883 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'codify' with definition 'edit, arrange systematically' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.884 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1368124049
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.884 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1368124049
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.884 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'coeducation' with definition 'education imparted for both sexes together' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.884 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'coeducation' with definition 'education imparted for both sexes together' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.885 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 291248289
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.885 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 291248289
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.885 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'cohesion' with definition 'sticking together' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.885 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'cohesion' with definition 'sticking together' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.886 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 733148878
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.886 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 733148878
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.886 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'coil' with definition 'a rope which has been wound or gathered in rings' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.886 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'coil' with definition 'a rope which has been wound or gathered in rings' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.887 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 93305304
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.887 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 93305304
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.887 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'coerce' with definition 'compel' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.887 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'coerce' with definition 'compel' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.888 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 2067289152
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.888 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 2067289152
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.888 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'collar' with definition 'neck band' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.888 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'collar' with definition 'neck band' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.889 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 171801113
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.889 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 171801113
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.889 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'colloquy' with definition 'a conversation' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.889 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'colloquy' with definition 'a conversation' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.890 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1581103209
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.890 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1581103209
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.890 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'collude' with definition 'work together secretly' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.890 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'collude' with definition 'work together secretly' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.891 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 985198363
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.891 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 985198363
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.891 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'concession' with definition 'rebate, favour, act of conceding' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.891 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'concession' with definition 'rebate, favour, act of conceding' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.892 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1780954544
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.892 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1780954544
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.892 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'conch' with definition 'a spiral shell' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.892 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'conch' with definition 'a spiral shell' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.893 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 397089826
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.893 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 397089826
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.893 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'concoct' with definition 'fabricate, make up, scheme' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.893 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'concoct' with definition 'fabricate, make up, scheme' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.894 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1098105258
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.894 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1098105258
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.894 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'concomitant' with definition 'accompanying, resulting' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.894 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'concomitant' with definition 'accompanying, resulting' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.895 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 364747081
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.895 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 364747081
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.895 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'condone' with definition 'pardon' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.895 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'condone' with definition 'pardon' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.896 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 480078301
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.896 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 480078301
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.896 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'debacle' with definition 'sudden collapse' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.896 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'debacle' with definition 'sudden collapse' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.897 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1429425171
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.897 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1429425171
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.897 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'debar' with definition 'exclude, prevent' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.897 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'debar' with definition 'exclude, prevent' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.897 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1908336255
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.898 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1908336255
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.898 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'debase' with definition 'make lower in value, degrade' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.898 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'debase' with definition 'make lower in value, degrade' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.898 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 753539747
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.899 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 753539747
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.899 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'decay' with definition 'decomposition, declination' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.899 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'decay' with definition 'decomposition, declination' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.899 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 266147935
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.900 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 266147935
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.900 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'decease' with definition 'death' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.900 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'decease' with definition 'death' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.900 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 300477663
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.901 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 300477663
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.901 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'decide' with definition 'settle, determine, give, judgement' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.901 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'decide' with definition 'settle, determine, give, judgement' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.901 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1428513624
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.902 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1428513624
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.902 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'deck' with definition 'the upper floor or covering of a ship' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.902 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'deck' with definition 'the upper floor or covering of a ship' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.902 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1066007642
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.903 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1066007642
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.903 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'desultory' with definition 'inconstant, hasty, unsettled' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.903 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'desultory' with definition 'inconstant, hasty, unsettled' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.903 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1213057714
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.904 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1213057714
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.904 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'detach' with definition 'separate, unfasten' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.904 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'detach' with definition 'separate, unfasten' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.904 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 753722816
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.904 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 753722816
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.905 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'declamation' with definition 'set speech in fine language' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.905 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'declamation' with definition 'set speech in fine language' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.905 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1286996043
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.905 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1286996043
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.905 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'destiny' with definition 'fate, decree' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.906 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'destiny' with definition 'fate, decree' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.906 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 291862444
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.906 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 291862444
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.906 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'destitute' with definition 'needy, helpless' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.906 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'destitute' with definition 'needy, helpless' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.907 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 840070045
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.908 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 840070045
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.908 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'disable' with definition 'make unfit, cripple' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.908 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'disable' with definition 'make unfit, cripple' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.908 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1449084040
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.909 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1449084040
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.909 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'disaffection' with definition 'dislike, hostility, disgust' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.909 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'disaffection' with definition 'dislike, hostility, disgust' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.909 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 79298791
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.910 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 79298791
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.910 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'disclaim' with definition 'disown, give up all claims' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.910 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'disclaim' with definition 'disown, give up all claims' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.910 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 632801499
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.911 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 632801499
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.911 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'discomfort' with definition 'inconvenience' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.911 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'discomfort' with definition 'inconvenience' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.911 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1357966059
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.911 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1357966059
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.911 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'dryad' with definition 'wood-nymph' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.912 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'dryad' with definition 'wood-nymph' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.912 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 28989673
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.912 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 28989673
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.912 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'ductile' with definition 'yielding, flexible, malleable' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.912 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'ductile' with definition 'yielding, flexible, malleable' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.913 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 381287526
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.913 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 381287526
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.913 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'duke' with definition 'a sovereign, prince, a noble' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.913 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'duke' with definition 'a sovereign, prince, a noble' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.914 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 850222215
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.914 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 850222215
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.914 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'duly' with definition 'properly, at the right time' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.914 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'duly' with definition 'properly, at the right time' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.915 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1550862988
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.915 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1550862988
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.915 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'ebb' with definition 'decay, flow back' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.915 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'ebb' with definition 'decay, flow back' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.916 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1489916846
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.916 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1489916846
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.916 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'ebony' with definition 'a kind of hard black wood' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.916 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'ebony' with definition 'a kind of hard black wood' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.917 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 536550727
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.917 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 536550727
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.917 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'eclectic' with definition 'selecting the best' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.917 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'eclectic' with definition 'selecting the best' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.918 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 326956313
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.918 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 326956313
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.918 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'ecstasy' with definition 'great joy, mad delight, rapture' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.918 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'ecstasy' with definition 'great joy, mad delight, rapture' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.919 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 89399900
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.919 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 89399900
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.919 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'edible' with definition 'eatable' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.919 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'edible' with definition 'eatable' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.919 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 555980810
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.920 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 555980810
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.920 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'eject' with definition 'expel, emit' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.920 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'eject' with definition 'expel, emit' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.921 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1576618502
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.922 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1576618502
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.922 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'elaborate' with definition 'to explain fully' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.922 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'elaborate' with definition 'to explain fully' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.923 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 2037162760
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.924 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 2037162760
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.924 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'empower' with definition 'give power to' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.924 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'empower' with definition 'give power to' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.924 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 797876017
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.925 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 797876017
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.925 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'enclave' with definition 'region surrounded by foreign country' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.925 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'enclave' with definition 'region surrounded by foreign country' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.927 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 2042874866
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.927 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 2042874866
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.927 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'endear' with definition 'to make dear' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.927 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'endear' with definition 'to make dear' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.928 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 418862075
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.929 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 418862075
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.929 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'encamp' with definition 'live in camp, rest' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.929 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'encamp' with definition 'live in camp, rest' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.930 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1577029256
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.930 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1577029256
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.930 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'equine' with definition 'pertaining to a horse, horse-like' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.930 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'equine' with definition 'pertaining to a horse, horse-like' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.931 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1921674448
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.931 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1921674448
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.931 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'erasure' with definition 'rubber, what has been rubbed out' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.931 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'erasure' with definition 'rubber, what has been rubbed out' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.931 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 27242552
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.932 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 27242552
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.932 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'erode' with definition 'eat away gradually' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.932 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'erode' with definition 'eat away gradually' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.932 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 703681802
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.932 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 703681802
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.933 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'eschew' with definition 'to avoid, to shun' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.933 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'eschew' with definition 'to avoid, to shun' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.933 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 404067665
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.933 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 404067665
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.933 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'espirit' with definition 'shrewdness' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.933 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'espirit' with definition 'shrewdness' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.934 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1166138443
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.934 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1166138443
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.934 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'escort' with definition 'body-guard on a journey' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.934 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'escort' with definition 'body-guard on a journey' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.935 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1378294636
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.935 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1378294636
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.935 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'expatiate' with definition 'speak or write in detail' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.936 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'expatiate' with definition 'speak or write in detail' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.936 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 688455725
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.936 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 688455725
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.936 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'expunge' with definition 'remove' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.936 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'expunge' with definition 'remove' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.937 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1940688992
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.937 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1940688992
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.937 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'fallible' with definition 'imperfect, liable to make mistakes' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.937 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'fallible' with definition 'imperfect, liable to make mistakes' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.937 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 2030068600
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.938 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 2030068600
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.938 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'familiarize' with definition 'accustom, make well known' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.938 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'familiarize' with definition 'accustom, make well known' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.938 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 767048930
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.938 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 767048930
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.938 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'fanfare' with definition 'loud blowing of trumpets' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.938 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'fanfare' with definition 'loud blowing of trumpets' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.939 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1481730739
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.939 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1481730739
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.939 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'fascinate' with definition 'attract, enchant' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.939 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'fascinate' with definition 'attract, enchant' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.940 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1350193879
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.940 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1350193879
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.940 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'flash' with definition 'give light, come suddenly' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.940 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'flash' with definition 'give light, come suddenly' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.940 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 970075255
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.940 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 970075255
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.940 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'flaunt' with definition 'display, flutter' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.941 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'flaunt' with definition 'display, flutter' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.941 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1008029111
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.941 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1008029111
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.941 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'flay' with definition 'strip, skin, peel' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.941 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'flay' with definition 'strip, skin, peel' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.942 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 852050713
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.942 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 852050713
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.942 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'flimsy' with definition 'thin, weak, easily, weak' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.942 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'flimsy' with definition 'thin, weak, easily, weak' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.942 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1379402395
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.942 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1379402395
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.943 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'flog' with definition 'beat with a whip or rod' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.943 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'flog' with definition 'beat with a whip or rod' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.943 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1407514556
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.943 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1407514556
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.943 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'glutton' with definition 'one who eats to excess, a great lover of reading books' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.943 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'glutton' with definition 'one who eats to excess, a great lover of reading books' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.944 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 936399230
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.944 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 936399230
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.944 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'goblin' with definition 'demon, an evil spirit' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.944 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'goblin' with definition 'demon, an evil spirit' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.944 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1029175880
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.945 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1029175880
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.945 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'goose' with definition 'a web-footed swimming bird like the duck' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.945 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'goose' with definition 'a web-footed swimming bird like the duck' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.945 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1578212572
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.946 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1578212572
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.946 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'guise' with definition 'appearance, dress' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.946 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'guise' with definition 'appearance, dress' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.946 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1730335137
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.946 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1730335137
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.947 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'gullible' with definition 'capable of being deceived' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.947 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'gullible' with definition 'capable of being deceived' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.947 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1608686408
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.947 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1608686408
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.947 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'gunny' with definition 'a coarse kind of sacking woven form jute' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.947 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'gunny' with definition 'a coarse kind of sacking woven form jute' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.948 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 907726084
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.948 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 907726084
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.948 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'gynarchy' with definition 'rule by a female' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.948 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'gynarchy' with definition 'rule by a female' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.948 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 196391361
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.948 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 196391361
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.948 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'hem' with definition 'border, margin, edge' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.949 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'hem' with definition 'border, margin, edge' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.949 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 983447420
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.949 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 983447420
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.949 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'henpecked' with definition 'meekly, submissive to wife' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.949 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'henpecked' with definition 'meekly, submissive to wife' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.949 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 561024683
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.950 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 561024683
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.950 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'herbivorous' with definition 'herb-eating' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.950 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'herbivorous' with definition 'herb-eating' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.950 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1117849795
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.950 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1117849795
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.950 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'heretic' with definition 'sectary, dissenter' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.950 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'heretic' with definition 'sectary, dissenter' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.951 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 440097478
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.951 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 440097478
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.951 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'hern' with definition 'a long-legged' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.951 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'hern' with definition 'a long-legged' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.951 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 883278079
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.952 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 883278079
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.952 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'horde' with definition 'a wandering tribe, a multitude' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.952 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'horde' with definition 'a wandering tribe, a multitude' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.952 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1783038232
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.952 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1783038232
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.952 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'horseplay' with definition 'touch handling' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.952 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'horseplay' with definition 'touch handling' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.953 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 236923043
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.953 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 236923043
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.953 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'hound' with definition 'hunting dog' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.953 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'hound' with definition 'hunting dog' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.953 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 588922006
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.954 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 588922006
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.954 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'icicle' with definition 'hanging piece of ice' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.954 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'icicle' with definition 'hanging piece of ice' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.954 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 890325486
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.954 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 890325486
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.954 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'iconoclast' with definition 'a breaker of idols' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.954 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'iconoclast' with definition 'a breaker of idols' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.955 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1264220495
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.955 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1264220495
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.955 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'ideology' with definition 'system of ideas manner of thinking' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.955 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'ideology' with definition 'system of ideas manner of thinking' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.955 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 2055384463
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.956 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 2055384463
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.956 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'ignorance' with definition 'lack of knowledge, not educated' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.956 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'ignorance' with definition 'lack of knowledge, not educated' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.956 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 619313796
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.956 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 619313796
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.956 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'imperial' with definition 'pertaining to an empire or its ruler' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.956 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'imperial' with definition 'pertaining to an empire or its ruler' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.957 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1610536722
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.957 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1610536722
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.957 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'impinge' with definition 'to impel, collide' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.957 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'impinge' with definition 'to impel, collide' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.957 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 492182232
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.958 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 492182232
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.958 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'imposition' with definition 'act of imposing, that which is imposed' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.958 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'imposition' with definition 'act of imposing, that which is imposed' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.958 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 244773636
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.958 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 244773636
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.958 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'incredulous' with definition 'refusing to believe' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.958 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'incredulous' with definition 'refusing to believe' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.959 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1489253756
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.959 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1489253756
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.959 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'incurious' with definition 'uninteresting, careless' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.959 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'incurious' with definition 'uninteresting, careless' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.959 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1767249185
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.960 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1767249185
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.960 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'indelicate' with definition 'not delicate, immodest' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.960 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'indelicate' with definition 'not delicate, immodest' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.960 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 597443456
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.960 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 597443456
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.960 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'indemnify' with definition 'to compensate of loss or damage, free responsibility' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.960 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'indemnify' with definition 'to compensate of loss or damage, free responsibility' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.961 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 205196430
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.961 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 205196430
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.961 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'inquiry' with definition 'investigation' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.961 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'inquiry' with definition 'investigation' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.961 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1524344127
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.962 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1524344127
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.962 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'inquisitive' with definition 'curious to know' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.962 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'inquisitive' with definition 'curious to know' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.962 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 661796796
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.962 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 661796796
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.962 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'inroad' with definition 'raid, any illegal encroachment' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.963 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'inroad' with definition 'raid, any illegal encroachment' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.963 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 2003984542
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.963 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 2003984542
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.964 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'insidious' with definition 'cunning, doing harm secretly' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.964 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'insidious' with definition 'cunning, doing harm secretly' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.964 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 177915029
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.964 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 177915029
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.964 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'insight' with definition 'knowledge, intuition' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.965 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'insight' with definition 'knowledge, intuition' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.965 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 639481744
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.965 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 639481744
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.965 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'insoluble' with definition 'that cannot be dissolved' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.965 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'insoluble' with definition 'that cannot be dissolved' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.965 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 376762806
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.966 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 376762806
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.966 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'involve' with definition 'include, entangle' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.966 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'involve' with definition 'include, entangle' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.966 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1927465506
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.966 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1927465506
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.966 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'invulnerable' with definition 'not able to be wounded or hurt' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.966 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'invulnerable' with definition 'not able to be wounded or hurt' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.967 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1489019891
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.967 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1489019891
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.967 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'jump' with definition 'a sudden movement' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.967 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'jump' with definition 'a sudden movement' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.970 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1415128499
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.971 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1415128499
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.971 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'junction' with definition 'a meeting place(especially) where lines of railway meet' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.971 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'junction' with definition 'a meeting place(especially) where lines of railway meet' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.971 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 2131702642
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.971 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 2131702642
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.971 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'jurisprudence' with definition 'the science of law' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.971 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'jurisprudence' with definition 'the science of law' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.972 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 110063982
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.972 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 110063982
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.972 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'jurist' with definition 'one learned in law' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.972 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'jurist' with definition 'one learned in law' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.972 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 2116638003
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.973 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 2116638003
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.973 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'jute' with definition 'the coarse fibre of an Indian plant' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.973 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'jute' with definition 'the coarse fibre of an Indian plant' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.973 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1886872429
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.973 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1886872429
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.973 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'juvenile' with definition 'youthful' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.973 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'juvenile' with definition 'youthful' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.974 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1254948342
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.974 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1254948342
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.974 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'lambative' with definition 'a medicine to be licked' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.974 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'lambative' with definition 'a medicine to be licked' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.974 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 389309510
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.974 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 389309510
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.974 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'lambent' with definition 'flickering' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.975 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'lambent' with definition 'flickering' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.975 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 677251920
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.975 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 677251920
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.975 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'lancet' with definition 'double-edged surgical knife' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.975 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'lancet' with definition 'double-edged surgical knife' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.975 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1644267344
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.976 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1644267344
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.976 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'landgravine' with definition 'a German Countess' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.976 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'landgravine' with definition 'a German Countess' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.976 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 126894278
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.976 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 126894278
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.976 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'landholder' with definition 'owner of a land' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.976 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'landholder' with definition 'owner of a land' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.977 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 841189321
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.977 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 841189321
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.977 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'larynx' with definition 'the organ of voice' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.977 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'larynx' with definition 'the organ of voice' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.977 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 2797905
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.977 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 2797905
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.977 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'lascar' with definition 'an Indian sailor' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.978 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'lascar' with definition 'an Indian sailor' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.978 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1166008281
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.978 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1166008281
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.978 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'lassitude' with definition 'tiredness' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.978 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'lassitude' with definition 'tiredness' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.978 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1196510191
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.979 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1196510191
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.979 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'litigation' with definition 'a law suit, contention' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.979 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'litigation' with definition 'a law suit, contention' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.979 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 501983179
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.981 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 501983179
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.981 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'litre' with definition 'a liquid measure equivalent to 1000 CC.' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.981 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'litre' with definition 'a liquid measure equivalent to 1000 CC.' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.981 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 487987028
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.982 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 487987028
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.982 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'lodestone' with definition 'a magnetic ore of iron' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.982 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'lodestone' with definition 'a magnetic ore of iron' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.982 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 469281085
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.982 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 469281085
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.982 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'loaf' with definition 'mass of bread' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.982 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'loaf' with definition 'mass of bread' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.983 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 475664083
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.983 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 475664083
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.983 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'lobby' with definition 'talk to win favour' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.983 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'lobby' with definition 'talk to win favour' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.983 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 390898267
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.983 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 390898267
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.983 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'maiden' with definition 'pure, unused, first' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.984 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'maiden' with definition 'pure, unused, first' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.984 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 326048466
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.984 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 326048466
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.984 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'mail' with definition 'armour post' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.984 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'mail' with definition 'armour post' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.984 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1921848773
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.985 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1921848773
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.985 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'malign' with definition 'slander, abuse' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.985 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'malign' with definition 'slander, abuse' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.985 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1187916389
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.985 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1187916389
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.985 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'misconstrue' with definition 'misjudge, give a wrong meaning' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.985 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'misconstrue' with definition 'misjudge, give a wrong meaning' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.986 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1201332934
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.986 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1201332934
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.986 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'myopia' with definition 'short sight' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.986 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'myopia' with definition 'short sight' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.986 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 689296581
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.986 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 689296581
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.986 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'myriad' with definition 'very great number, thousand' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.986 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'myriad' with definition 'very great number, thousand' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.987 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1708793417
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.987 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1708793417
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.987 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'myth' with definition 'traditional story, religious legend' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.987 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'myth' with definition 'traditional story, religious legend' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.987 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1042038340
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.988 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1042038340
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.988 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'nominee' with definition 'one nominated' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.988 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'nominee' with definition 'one nominated' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.988 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1675356737
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.988 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1675356737
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.988 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'nonage' with definition 'minority' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.988 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'nonage' with definition 'minority' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.989 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1009827929
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.989 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1009827929
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.989 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'offal' with definition 'refuse, waste' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.989 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'offal' with definition 'refuse, waste' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.989 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 757929601
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.989 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 757929601
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.989 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'offence' with definition 'illegal act, insult, crime' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.989 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'offence' with definition 'illegal act, insult, crime' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.990 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 252364297
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.990 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 252364297
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.990 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'outhouse' with definition 'a small building near the residence' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.990 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'outhouse' with definition 'a small building near the residence' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.990 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1495328985
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.991 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1495328985
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.991 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'outing' with definition 'a pleasure trip' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.991 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'outing' with definition 'a pleasure trip' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.991 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 644513515
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.991 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 644513515
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.991 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'outspoken' with definition 'candid, frank' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.991 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'outspoken' with definition 'candid, frank' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.992 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1448098809
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.992 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1448098809
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.992 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'papyrus' with definition 'a seed once used to make paper' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.992 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'papyrus' with definition 'a seed once used to make paper' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.992 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 329362192
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.992 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 329362192
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.993 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'parcel' with definition 'divide, pack up in to parcels' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.993 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'parcel' with definition 'divide, pack up in to parcels' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.993 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1348084264
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.993 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1348084264
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.993 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'parish' with definition 'a district under the care of a parson' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.993 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'parish' with definition 'a district under the care of a parson' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.994 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1687707798
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.994 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1687707798
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.994 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'pluck' with definition 'spirit, courage' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.994 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'pluck' with definition 'spirit, courage' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.994 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 247917094
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.994 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 247917094
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.994 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'plumage' with definition 'bird, feathers' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.994 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'plumage' with definition 'bird, feathers' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.995 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1160989932
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.995 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1160989932
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.995 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'pod' with definition 'seed-case of leguminous plants, cocoons of silkworms' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.995 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'pod' with definition 'seed-case of leguminous plants, cocoons of silkworms' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.995 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 751665920
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.996 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 751665920
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.996 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'proclivity' with definition 'a tendency, leaning towards something, inclination' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.996 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'proclivity' with definition 'a tendency, leaning towards something, inclination' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.996 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 58217637
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.996 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 58217637
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.996 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'recite' with definition 'narrate, to repeat from memory' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.996 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'recite' with definition 'narrate, to repeat from memory' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.996 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 807132538
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.997 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 807132538
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.997 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'reck' with definition 'to care for' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.997 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'reck' with definition 'to care for' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.997 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1279258459
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.997 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1279258459
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.997 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'slovenly' with definition 'negligent, untidy, disorderly' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.997 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'slovenly' with definition 'negligent, untidy, disorderly' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.998 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1707679414
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.998 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1707679414
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.998 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'slush' with definition 'partly melted snow, soft mud' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.998 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'slush' with definition 'partly melted snow, soft mud' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.998 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 269514502
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.998 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 269514502
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.998 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'spasmodic' with definition 'occurring irregularly' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.999 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'spasmodic' with definition 'occurring irregularly' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.999 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 871961734
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.999 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 871961734
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.999 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'spite' with definition 'tease, annoy, show ill-feeling towards' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.999 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'spite' with definition 'tease, annoy, show ill-feeling towards' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:08 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:08.999 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1915784131
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.000 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1915784131
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.000 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'staunch' with definition 'loyal, steadfast' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.000 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'staunch' with definition 'loyal, steadfast' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.000 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 3223840
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.000 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 3223840
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.000 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'student' with definition 'a person who studies something' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.000 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'student' with definition 'a person who studies something' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.001 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 2131583170
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.001 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 2131583170
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.001 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'suavity' with definition 'agreeableness, pleasantness' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.001 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'suavity' with definition 'agreeableness, pleasantness' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.001 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1245724770
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.001 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1245724770
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.001 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'talisman' with definition 'something, considered to bring luck, charm' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.001 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'talisman' with definition 'something, considered to bring luck, charm' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.002 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 178154389
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.002 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 178154389
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.002 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'taper' with definition 'make smaller towards and end' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.002 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'taper' with definition 'make smaller towards and end' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.002 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1159873873
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.002 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1159873873
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.002 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'tomboy' with definition 'a girl who plays boy's games' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.002 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'tomboy' with definition 'a girl who plays boy's games' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.003 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 488580292
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.003 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 488580292
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.003 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'torchbearer' with definition 'one who carries a torch, a leader' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.003 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'torchbearer' with definition 'one who carries a torch, a leader' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.003 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1175282504
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.003 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1175282504
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.004 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'trowel' with definition 'a flat-bladed implement' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.004 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'trowel' with definition 'a flat-bladed implement' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.004 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1910047512
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.004 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1910047512
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.004 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'tuck' with definition 'gather up or roll' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.004 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'tuck' with definition 'gather up or roll' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.004 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1758246851
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.005 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1758246851
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.005 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'untoward' with definition 'crass, awkward, vexatious' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.005 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'untoward' with definition 'crass, awkward, vexatious' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.005 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1977411490
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.005 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1977411490
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.005 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'upright' with definition 'honest, erect' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.005 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'upright' with definition 'honest, erect' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.006 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1781762719
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.006 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1781762719
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.006 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'wager' with definition 'that which is waged or pledged, a bet' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.006 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'wager' with definition 'that which is waged or pledged, a bet' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.006 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 299765095
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.006 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 299765095
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.006 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'wallaby' with definition 'a small kangaroo' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.006 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'wallaby' with definition 'a small kangaroo' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.007 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 2049701484
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.007 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 2049701484
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.007 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'wane' with definition 'decline, decrease' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.007 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'wane' with definition 'decline, decrease' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.007 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1960103942
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.007 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1960103942
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.007 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'wilful' with definition 'obstinate, fond of having one's own way' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.007 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'wilful' with definition 'obstinate, fond of having one's own way' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.008 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 56234179
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.008 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 56234179
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.008 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'winsome' with definition 'agreeable, attractive, engaging' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.008 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'winsome' with definition 'agreeable, attractive, engaging' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.008 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1576931082
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.008 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1576931082
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.008 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'zealous' with definition 'ardent, enthusiastic' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.008 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'zealous' with definition 'ardent, enthusiastic' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.009 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1732028424
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.009 [RMI TCP Connection(4)-127.0.0.1] INFO: Finding successor for key: 1732028424
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.009 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'zymotic' with definition 'relating to or produced by fermentation' added to the dictionary on Node 6
+
+Jun 29, 2024 4:31:09 PM NodeLogger logInfo
+INFO: 2024-06-29 16:31:09.009 [RMI TCP Connection(4)-127.0.0.1] INFO: Word 'zymotic' with definition 'relating to or produced by fermentation' added to the dictionary on Node 6
+
