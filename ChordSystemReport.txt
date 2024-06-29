@@ -1,0 +1,291 @@
+Network Report:
+Node Node0 has 196 words.
+Finger Table for Node0:
+Finger Table for Node0:
+Finger 0: null
+Finger 1: null
+Finger 2: null
+Finger 3: null
+Finger 4: null
+Finger 5: null
+Finger 6: null
+Finger 7: null
+Finger 8: null
+Finger 9: null
+Finger 10: null
+Finger 11: null
+Finger 12: null
+Finger 13: null
+Finger 14: null
+Finger 15: null
+Finger 16: null
+Finger 17: null
+Finger 18: null
+Finger 19: null
+Finger 20: null
+Finger 21: null
+Finger 22: null
+Finger 23: null
+Finger 24: null
+Finger 25: null
+Finger 26: null
+Finger 27: null
+Finger 28: null
+Finger 29: null
+Finger 30: null
+
+
+Node Node1 has 196 words.
+Finger Table for Node1:
+Finger Table for Node1:
+Finger 0: null
+Finger 1: null
+Finger 2: null
+Finger 3: null
+Finger 4: null
+Finger 5: null
+Finger 6: null
+Finger 7: null
+Finger 8: null
+Finger 9: null
+Finger 10: null
+Finger 11: null
+Finger 12: null
+Finger 13: null
+Finger 14: null
+Finger 15: null
+Finger 16: null
+Finger 17: null
+Finger 18: null
+Finger 19: null
+Finger 20: null
+Finger 21: null
+Finger 22: null
+Finger 23: null
+Finger 24: null
+Finger 25: null
+Finger 26: null
+Finger 27: null
+Finger 28: null
+Finger 29: null
+Finger 30: null
+
+
+Node Node2 has 196 words.
+Finger Table for Node2:
+Finger Table for Node2:
+Finger 0: null
+Finger 1: null
+Finger 2: null
+Finger 3: null
+Finger 4: null
+Finger 5: null
+Finger 6: null
+Finger 7: null
+Finger 8: null
+Finger 9: null
+Finger 10: null
+Finger 11: null
+Finger 12: null
+Finger 13: null
+Finger 14: null
+Finger 15: null
+Finger 16: null
+Finger 17: null
+Finger 18: null
+Finger 19: null
+Finger 20: null
+Finger 21: null
+Finger 22: null
+Finger 23: null
+Finger 24: null
+Finger 25: null
+Finger 26: null
+Finger 27: null
+Finger 28: null
+Finger 29: null
+Finger 30: null
+
+
+Node Node3 has 196 words.
+Finger Table for Node3:
+Finger Table for Node3:
+Finger 0: null
+Finger 1: null
+Finger 2: null
+Finger 3: null
+Finger 4: null
+Finger 5: null
+Finger 6: null
+Finger 7: null
+Finger 8: null
+Finger 9: null
+Finger 10: null
+Finger 11: null
+Finger 12: null
+Finger 13: null
+Finger 14: null
+Finger 15: null
+Finger 16: null
+Finger 17: null
+Finger 18: null
+Finger 19: null
+Finger 20: null
+Finger 21: null
+Finger 22: null
+Finger 23: null
+Finger 24: null
+Finger 25: null
+Finger 26: null
+Finger 27: null
+Finger 28: null
+Finger 29: null
+Finger 30: null
+
+
+Node Node4 has 196 words.
+Finger Table for Node4:
+Finger Table for Node4:
+Finger 0: null
+Finger 1: null
+Finger 2: null
+Finger 3: null
+Finger 4: null
+Finger 5: null
+Finger 6: null
+Finger 7: null
+Finger 8: null
+Finger 9: null
+Finger 10: null
+Finger 11: null
+Finger 12: null
+Finger 13: null
+Finger 14: null
+Finger 15: null
+Finger 16: null
+Finger 17: null
+Finger 18: null
+Finger 19: null
+Finger 20: null
+Finger 21: null
+Finger 22: null
+Finger 23: null
+Finger 24: null
+Finger 25: null
+Finger 26: null
+Finger 27: null
+Finger 28: null
+Finger 29: null
+Finger 30: null
+
+
+Node Node5 has 196 words.
+Finger Table for Node5:
+Finger Table for Node5:
+Finger 0: null
+Finger 1: null
+Finger 2: null
+Finger 3: null
+Finger 4: null
+Finger 5: null
+Finger 6: null
+Finger 7: null
+Finger 8: null
+Finger 9: null
+Finger 10: null
+Finger 11: null
+Finger 12: null
+Finger 13: null
+Finger 14: null
+Finger 15: null
+Finger 16: null
+Finger 17: null
+Finger 18: null
+Finger 19: null
+Finger 20: null
+Finger 21: null
+Finger 22: null
+Finger 23: null
+Finger 24: null
+Finger 25: null
+Finger 26: null
+Finger 27: null
+Finger 28: null
+Finger 29: null
+Finger 30: null
+
+
+Node Node6 has 196 words.
+Finger Table for Node6:
+Finger Table for Node6:
+Finger 0: null
+Finger 1: null
+Finger 2: null
+Finger 3: null
+Finger 4: null
+Finger 5: null
+Finger 6: null
+Finger 7: null
+Finger 8: null
+Finger 9: null
+Finger 10: null
+Finger 11: null
+Finger 12: null
+Finger 13: null
+Finger 14: null
+Finger 15: null
+Finger 16: null
+Finger 17: null
+Finger 18: null
+Finger 19: null
+Finger 20: null
+Finger 21: null
+Finger 22: null
+Finger 23: null
+Finger 24: null
+Finger 25: null
+Finger 26: null
+Finger 27: null
+Finger 28: null
+Finger 29: null
+Finger 30: null
+
+
+Node Node7 has 196 words.
+Finger Table for Node7:
+Finger Table for Node7:
+Finger 0: null
+Finger 1: null
+Finger 2: null
+Finger 3: null
+Finger 4: null
+Finger 5: null
+Finger 6: null
+Finger 7: null
+Finger 8: null
+Finger 9: null
+Finger 10: null
+Finger 11: null
+Finger 12: null
+Finger 13: null
+Finger 14: null
+Finger 15: null
+Finger 16: null
+Finger 17: null
+Finger 18: null
+Finger 19: null
+Finger 20: null
+Finger 21: null
+Finger 22: null
+Finger 23: null
+Finger 24: null
+Finger 25: null
+Finger 26: null
+Finger 27: null
+Finger 28: null
+Finger 29: null
+Finger 30: null
+
+
+Chord Ring Diagram:
+Node0 -> Node1 -> Node2 -> Node3 -> Node4 -> Node5 -> Node6 -> Node7 -> Node0
